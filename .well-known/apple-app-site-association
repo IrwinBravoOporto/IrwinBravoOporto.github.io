@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3K99362WHQ.com.bancomercio.appcli1"],
+        "components": [
+          { "/": "/pagos/*", "comment": "Demo detalle de pago" }
+        ]
+      }
+    ]
+  }
+}
