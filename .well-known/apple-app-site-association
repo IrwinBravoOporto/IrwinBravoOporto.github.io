@@ -4,7 +4,8 @@
       {
         "appIDs": ["3K99362WHQ.com.bancomercio.appcli1"],
         "components": [
-          { "/": "/pagos/*", "comment": "Demo detalle de pago" }
+          { "/": "/pagos/*", "comment": "Demo detalle de pago" },
+          { "/": "/ahorros/*", "comment": "Demo cuenta de ahorros" }
         ]
       }
     ]
